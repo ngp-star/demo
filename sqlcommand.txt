@@ -1,0 +1,1 @@
+selct * from openchampion group by event_name having eventcount=max(eventcount);
